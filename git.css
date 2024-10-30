@@ -1,3 +1,14 @@
 body {
     background-color: aquamarine;
 }
+
+h1 {
+    color: rgb(255, 127, 131);
+    text-align: center;
+}
+
+p {
+    font-family: "Times New Roman";
+    font-size: 20px;
+    text-align: center;
+}
